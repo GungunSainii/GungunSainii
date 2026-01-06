@@ -22,7 +22,7 @@
 ## 🎯 Daily Growth Streaks
 
 ### 🧠 TryHackMe Journey
-<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_TRYHACKME_USERNAME.png" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/sainigungun01.png" alt="TryHackMe Badge" />
 
 📓 **What I do daily**
 - Rooms completion
@@ -32,7 +32,7 @@
 ---
 
 ### ⚔️ DSA / LeetCode Arc
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/Gungun_Saini1?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
 
 📌 Following: **Striver A2Z DSA Sheet**
 
@@ -43,14 +43,14 @@
 - Every concept documented
 - Projects built step-by-step
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GungunSainii&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GungunSainii&theme=tokyonight"/>
 
 ---
 
 ## 📈 Growth Graphs
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GungunSainii&theme=tokyo-night"/>
 
 ---
 
@@ -59,7 +59,7 @@
 📚 I write **daily learning notes & breakdowns** here:
 
 🔗 **Hashnode Blog:**  
-👉 https://YOUR_HASHNODE_USERNAME.hashnode.dev
+👉 https://gungunn.hashnode.dev
 
 ### 📝 Latest Posts
 <!-- HASHNODE_BLOG:START -->
