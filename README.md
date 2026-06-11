@@ -49,7 +49,7 @@
 
 ---
 
-## 📈 Growth Graphs
+<!-- ## 📈 Growth Graphs
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GungunSainii&theme=tokyo-night"/>
 
 ---
@@ -67,7 +67,7 @@
 
 ---
 
-## 🗂️ My Learning Repositories
+<!-- ## 🗂️ My Learning Repositories
 
 | Track | Repo |
 |-----|-----|
@@ -91,4 +91,4 @@
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120"/>
 <br/>
 <b>✨ This is just the beginning ✨</b>
-</div> -->
+</div> --> 
