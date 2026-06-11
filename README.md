@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=Gungun%20Saini&fontSize=45&fontAlignY=35&desc=Building%20Daily.%20Documenting%20Everything.%20Becoming%20Unstoppable.&descAlignY=55"/>
 
@@ -91,4 +91,4 @@
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120"/>
 <br/>
 <b>✨ This is just the beginning ✨</b>
-</div>
+</div> -->
